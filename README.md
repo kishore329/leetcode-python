@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kishore329/leetcode-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/kishore329/leetcode-python/tree/master/0217-contains-duplicate) |
+| [1470-shuffle-the-array](https://github.com/kishore329/leetcode-python/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kishore329/leetcode-python/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
