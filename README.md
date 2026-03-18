@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kishore329/leetcode-python/tree/master/0217-contains-duplicate) |
 | [1470-shuffle-the-array](https://github.com/kishore329/leetcode-python/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kishore329/leetcode-python/tree/master/1480-running-sum-of-1d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishore329/leetcode-python/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kishore329/leetcode-python/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/kishore329/leetcode-python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kishore329/leetcode-python/tree/master/0344-reverse-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/kishore329/leetcode-python/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
